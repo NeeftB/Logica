@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Logica</string>
+    <string name="title">Conjunction (AND)</string>
+    <string name="a_text">A</string>
+    <string name="b_text">B</string>
+    <string name="ab_text">A^B</string>
+    <string name="true_text">T</string>
+    <string name="false_text">F</string>
+    <string name="answer_description">Fill in a T or F</string>
+    <string name="btn_submit">SUBMIT</string>
+    <string name="answer">TFFF</string>
+    <string name="correct">Your answers are correct!</string>
+    <string name="incorrect">The answer is not correct. Please try again...</string>
+    <string name="wrong_input">One of your answer isn\'t a T or a F</string>
+</resources>
